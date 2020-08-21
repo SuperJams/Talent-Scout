@@ -6,7 +6,7 @@ html, body, header, #intro {
 #intro {
     background: url("http://chuantu.xyz/t6/740/1597895090x992245926.jpg") 
     no-repeat center center fixed;
-    background-size: cover;
+    background-size: cover; 
 }
 #fucker {
     background: url("https://colorlib.com/preview/theme/skwela/images/big_image_3.jpg")
