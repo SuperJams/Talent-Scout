@@ -1,0 +1,15 @@
+html, body, header, #intro {
+    height: 100%;
+    
+}
+
+#intro {
+    background: url("http://chuantu.xyz/t6/740/1597895090x992245926.jpg") 
+    no-repeat center center fixed;
+    background-size: cover;
+}
+#fucker {
+    background: url("https://colorlib.com/preview/theme/skwela/images/big_image_3.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+}
